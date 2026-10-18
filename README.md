@@ -5,7 +5,7 @@ Ujian Live Coding PBO
    Prodi: Teknik Informatika (1125b)
 2. Kasus Pilihan
    kasus 1 sistem kasir minimarket
-   kasus 2 nama kasus kedua
+   kasus 2 penilaian mahasiswa
 3. petunjuk menjalankan programnya
    buka folder vscode proyek di visual studio code
    buka terminal melalui menu terminal
