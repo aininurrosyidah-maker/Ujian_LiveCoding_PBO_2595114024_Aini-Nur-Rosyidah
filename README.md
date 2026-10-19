@@ -72,7 +72,11 @@ antara 0 sampai 100.
 - Total Durasi: 00:59:35
 
 ## Repository GitHub
-https://github.com/nazwakamilahartati/Ujian_LiveCoding_PBO_2595114036_Nazwa-Kamila-Hartati.git 
+(https://github.com/aininurrosyidah-maker/Ujian_LiveCoding_PBO_2595114024_Aini-Nur-Rosyidah.git) 
 
 ## Rekaman Layar
-https://drive.google.com/drive/folders/17oRWDwfSgpstCo6I_RYxqf_2RhK8cti4
+https://drive.google.com/drive/folders/1aV_KWFUDGyMDuS0FuVNmlIkiUvAFODE8?usp=sharing 
+
+## link youtube
+https://youtu.be/CgIe7P2XEgA 
+https://youtu.be/veeS9PeSiN0
