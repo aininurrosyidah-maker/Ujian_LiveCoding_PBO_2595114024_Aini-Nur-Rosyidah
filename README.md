@@ -1,6 +1,6 @@
 # Ujian Live Coding PBO
 
-## identits Mahasiswa
+## Identitas Mahasiswa
 - Nama: Aini Nur Rosyidah
 - NIM: 2595114024
 - kelas: B (1125B)
