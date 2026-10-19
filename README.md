@@ -67,8 +67,8 @@ antara 0 sampai 100.
 
 ## Waktu Pengerjaan
 - Tanggal: Minggu, 18 Oktober 2026
-- Waktu Mulai: 18:52:00
-- Waktu Selesai: 21:15:35 
+- Waktu Mulai: 18:52
+- Waktu Selesai: 21:15
 - Total Durasi: 00:59:35
 
 ## Repository GitHub
